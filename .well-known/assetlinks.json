@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.dilcom.pizzahutindia.dev",
+      "package_name": "com.dilcom.pizzahutindia.qa",
       "sha256_cert_fingerprints": [
-        "D0:C4:49:F6:ED:4B:3E:39:25:6B:C2:82:09:58:E0:14:54:BB:A4:0B:0C:34:38:C9:B3:A2:14:EF:F9:6A:21:79"
+        "31:22:5F:DD:9F:EE:2C:8A:11:63:E5:3E:AD:65:2C:EE:CE:8F:81:02:BB:90:1A:D9:F2:93:CD:80:40:A1:E3:C9"
       ]
     }
   }
