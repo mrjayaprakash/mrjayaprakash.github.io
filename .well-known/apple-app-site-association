@@ -3,10 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "NQS6NXQQ38.com.dilcom.pizzahutindia.dev",
+        "appID": "NQS6NXQQ38.com.dilcom.pizzahutindia.qa",
         "paths": ["*"]
       }
     ]
   }
 }
-
