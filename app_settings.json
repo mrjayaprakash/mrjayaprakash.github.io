@@ -1,5 +1,5 @@
 {
-  "version": "1.0.031",
+  "version": "1.0.038",
   "appConfig": {
     "minLocationSearchLength": 1,
     "geohashPrecision": 4,
