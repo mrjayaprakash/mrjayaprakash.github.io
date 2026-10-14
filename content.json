@@ -1,5 +1,5 @@
 {
-  "version": "1.0.038",
+  "version": "1.0.039",
   "en": {
     "razorpayMerchantName": "Pizza Hut",
     "appTitle": "Pizza Hut India",
@@ -166,7 +166,7 @@
     "loginSignInWithGoogle": "Sign in with Google",
     "loginApple": "Apple",
     "loginSignInWithApple": "Sign in with Apple",
-    "loginSignInWithMobile": "Log in or Sign up - JP8",
+    "loginSignInWithMobile": "Log in or Sign up - JP9",
     "loginGetOtp": "Get OTP",
     "loginOrSignInWith": "or Sign In with",
     "loginContinueTermsPrefix": "By continuing, you agree to our ",
