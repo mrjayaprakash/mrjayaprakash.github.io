@@ -1,5 +1,5 @@
 {
-  "version": "1.0.038",
+  "version": "1.0.039",
   "appConfig": {
     "minLocationSearchLength": 1,
     "geohashPrecision": 4,
@@ -55,8 +55,8 @@
     "whatsNew": "White Theme integration on all views"
   },
   "homeLayout": [
-      { "order": 6, "type": "marketing_banner", "enabled": true, "section_title": "", "isShowTitle": false, "isShowViewAll": false },
-      { "order": 2, "type": "menu", "enabled": true, "section_title": "", "isShowTitle": false, "isShowViewAll": false },
+      { "order": 2, "type": "marketing_banner", "enabled": true, "section_title": "", "isShowTitle": false, "isShowViewAll": false },
+      { "order": 6, "type": "menu", "enabled": true, "section_title": "", "isShowTitle": false, "isShowViewAll": false },
       { "order": 3, "type": "top_deals", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": true },
       { "order": 4, "type": "offers", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": false },
       { "order": 5, "type": "best_sellers", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": false },
