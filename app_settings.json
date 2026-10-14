@@ -1,0 +1,66 @@
+{
+  "version": "1.0.030",
+  "appConfig": {
+    "minLocationSearchLength": 1,
+    "geohashPrecision": 4,
+    "storeLocatorMaxDistance": 5000,
+    "topDealsDisplayCount": 5,
+    "cartItemMaxQuantity": 10,
+    "searchProductMinLength": 2,
+    "searchProductMaxLength": 25,
+    "searchDebounceMilliseconds": 400,
+    "searchThrottleIntervalMilliseconds": 1200,
+    "orderConfirmationPollIntervalSeconds": 10,
+    "customerCareEmail": "info@pizzahut.co.in",
+    "customerCarePhoneDisplay": "1800 202 2022",
+    "razorpayLogoUrl": "https://dev-dc-oth-in-assets.dilcomcognizantnxtgen.com/dc-pzh-in/images/logo/pizza_hut_logo.jpg"
+  },
+  "featureFlags": {
+    "showSocialBox": true,
+    "showGoogleSignIn": true,
+    "showAppleSignIn": true,
+    "showSkipLogin": true,
+    "showTopDealsInHome": true,
+    "showOffersInHome": true,
+    "showCategoryOpenButton": true,
+    "showStorePhoneOnCard": false,
+    "requireReportedStoreStatus": false,
+    "showFavoriteButton": false,
+    "showCartSavingsAndRewards": true,
+    "showHomeLocation": true,
+    "showHomeRewards": false,
+    "showHomeAccount": true,
+    "showServiceTypeSelector": true,
+    "showDeliveryServiceType": true,
+    "showTakeawayServiceType": true,
+    "showDineInServiceType": false,
+    "showDeliveryEta": true,
+    "showSearchPanelDeliveryEta": false,
+    "showHomeSearch": true,
+    "showHomeVegFilter": false,
+    "showProfileHelp": false,
+    "showProfileTrackOrder": true,
+    "showStoreListingViewAll": true,
+    "shouldPlaceOrderEnable": true,
+    "showSavedAddressInProfile":true,
+    "showOrderHistoryInProfile":true,
+    "showContactusInProfile":true,
+    "showTermsAndConditionsInProfile":true,
+    "showReOrderCTA":false,
+    "enableForceUpgrade":true
+  },
+  "appUpgrade": {
+    "appStoreUrl": "https://apps.apple.com/in/app/pizza-hut-india/id1597873835",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.phdv.universal",
+    "whatsNew": "White Theme integration on all views"
+  },
+  "homeLayout": [
+      { "order": 1, "type": "marketing_banner", "enabled": true, "section_title": "", "isShowTitle": false, "isShowViewAll": false },
+      { "order": 2, "type": "menu", "enabled": true, "section_title": "", "isShowTitle": false, "isShowViewAll": false },
+      { "order": 3, "type": "top_deals", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": true },
+      { "order": 4, "type": "offers", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": false },
+      { "order": 5, "type": "best_sellers", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": false },
+      { "order": 6, "type": "previously_ordered", "enabled": true, "section_title": "", "isShowTitle": true, "isShowViewAll": false }
+
+  ]
+}
